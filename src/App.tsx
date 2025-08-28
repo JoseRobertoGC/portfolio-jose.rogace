@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { ArrowRight, Github, Linkedin, Mail, Menu, X, ExternalLink } from "lucide-react";
 import logo from "../public/logo_white.png";
-import foto from "../public/Foto.jpg"
+import foto from "../public/Foto.png"
 import Loader from './components/Loader';
 
 // Tailwind helpers
@@ -163,7 +163,7 @@ const PROJECTS = [
     description: "Sistema web desarrollado para registrar participantes del evento “Patrones Hermosos 2025”. Incluye formularios responsivos, almacenamiento en MySQL y notificaciones personalizadas tipo toast,",
     tags: ["React", "MySQL", "TypeScript", "Tailwind CSS", "React Context API", "react-toastify"],
     href: "https://github.com/JoseRobertoGC",
-    video: "https://drive.google.com/file/d/1i6SccbTJRnzGcsqflEOlPKxXhGBnF9Ey/preview",
+    video: "https://drive.google.com/file/d/1GmOq1cToFMkDLHvu2ZW7FQRu81loEiF8/preview",
   },
   {
     title: "Panoptimize",
