@@ -163,7 +163,7 @@ const PROJECTS = [
     description: "Sistema web desarrollado para registrar participantes del evento “Patrones Hermosos 2025”. Incluye formularios responsivos, almacenamiento en MySQL y notificaciones personalizadas tipo toast,",
     tags: ["React", "MySQL", "TypeScript", "Tailwind CSS", "React Context API", "react-toastify"],
     href: "https://github.com/JoseRobertoGC",
-    video: "/RegistroPatrones.mp4",
+    video: "https://drive.google.com/file/d/1i6SccbTJRnzGcsqflEOlPKxXhGBnF9Ey/preview",
   },
   {
     title: "Panoptimize",
@@ -187,7 +187,7 @@ const PROJECTS = [
     description: "Coordinador de TI, a cargo de 2 personas en el desarrollo del proyecto. Sistema de asistencia y salidas de las participantes a través de una applicaión movil.",
     tags: ["Appsheet", "MySQL"],
     href: "https://github.com/JoseRobertoGC",
-    video: "/PatronesApp.mp4",
+    video: "https://drive.google.com/file/d/1LL3bYu9WqCfSQGEsP7MKK87vn4r3OJfV/preview",
   },
   {
     title: "BazarTEC",
@@ -195,15 +195,15 @@ const PROJECTS = [
     description: "Creación de una aplicación móvil en AppSheet para optimizar la gestión de asistencia de vendedores en un bazar, utilizando un sistema basado en códigos QR para registrar y organizar la participación de los mismos.",
     tags: ["Appsheet", "MySQL"],
     href: "https://github.com/JoseRobertoGC",
-    video: '/BazarTECvideo.mp4',
+    video: "https://drive.google.com/file/d/1qGPK31FnAv5SxGjXsCZEqu6JCMyr4OH2/preview",
   },
   {
     title: "SEL4C",
     year: "2023",
     description: "Desarrollo de una aplicación móvil en Swift integrada con un dashboard en Django, para gestionar competencias en emprendimiento social y pensamiento complejo siguiendo la metodología SEL4C.",
-    tags: ["Appsheet", "MySQL"],
+    tags: ["Django", "MySQL", "Swift"],
     href: "https://github.com/JoseRobertoGC",
-    video: "/SEL4C TC2007B.mp4",
+    video: "https://drive.google.com/file/d/1cOFeUdadiXJBuJEqlE5zCVSxOscwxkZb/preview",
   },
 ];
 
