@@ -44,7 +44,7 @@ const Header: React.FC = () => {
       <div className="mx-auto flex max-w-screen-2xl items-center justify-between px-4 sm:px-6 lg:px-8 py-3">
       <a href="#inicio" className="flex items-center gap-2 font-extrabold tracking-tight text-xl md:text-2xl">
         <img src={logo} alt="Logo" className="h-8 w-8 md:h-10 md:w-10 rounded-full" />
-        creai<span className="text-sky-500">·</span>portfolio
+        
       </a>
         <nav className="hidden md:flex items-center gap-6">
           {nav.map(n => (
