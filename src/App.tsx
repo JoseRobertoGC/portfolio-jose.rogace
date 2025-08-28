@@ -160,7 +160,7 @@ const PROJECTS = [
   {
     title: "Patrones Hermosos | 9va edición",
     year: "2025",
-    description: "Sistema web desarrollado para registrar participantes del evento “Patrones Hermosos 2025”. Incluye formularios responsivos, almacenamiento en MySQL y notificaciones personalizadas tipo toast,",
+    description: "Sistema web desarrollado para registrar participantes del evento “Patrones Hermosos 2025”. Incluye formularios responsivos, almacenamiento en MySQL y notificaciones personalizadas tipo toast.",
     tags: ["React", "MySQL", "TypeScript", "Tailwind CSS", "React Context API", "react-toastify"],
     href: "https://github.com/JoseRobertoGC",
     video: "https://drive.google.com/file/d/1GmOq1cToFMkDLHvu2ZW7FQRu81loEiF8/preview",
